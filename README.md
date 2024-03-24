@@ -1,11 +1,20 @@
 - 👋 Hi, I’m @PavanNamala
+- Pavan Kalyan Namala
+- Warangal,Telangana,India.
+- 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- Collecting antiques.
+- 
+- 🌱 I’m currently learning ...Data Science.
+- 
 - 💞️ I’m looking to collaborate on ...
+- 
 - 📫 How to reach me ...
-- www.linkedin.com/in/pavan-kalyan-namala-5107b8290
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- www.linkedin.com/in/pavan-kalyan-5456842ba
+- 😄 Pronouns: ...He / Him
+- ⚡ Fun fact: ...March-12-2000
+- mail id : pavannamala.np@gmail.com
 
 <!---
 PavanNamala/PavanNamala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PavanNamala
+- 👋 Hi, I’m Pavan Kalyan Namala
 - Pavan Kalyan Namala
 - Warangal,Telangana,India.
 - 

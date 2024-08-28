@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Pavan Kalyan Namala
-- Pavan Kalyan Namala
 - Warangal,Telangana,India.
 - 
 - 👀 I’m interested in ...

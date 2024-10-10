@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning ...Data Science.
 - 
 - 💞️ I’m looking to collaborate on ...
-- 
+- Data Analyst Intern at CodeSpaze.
+- Data Scientist Intern at Corizo 
+- Data Science Bootcamp
 - 📫 How to reach me ...
 
 - www.linkedin.com/in/pavan-kalyan-5456842ba
